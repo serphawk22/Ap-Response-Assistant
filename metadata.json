@@ -1,0 +1,6 @@
+{
+  "name": "Accounts Payable Response Assistant",
+  "description": "Examines procure-to-pay packets to conduct strict 4-way matches (Invoice, Purchase Order, Receipt, and Contract) for pristine validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
